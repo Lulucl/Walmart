@@ -1,0 +1,9 @@
+root
+ |-- Date: string (nullable = true)
+ |-- Open: string (nullable = true)
+ |-- High: string (nullable = true)
+ |-- Low: string (nullable = true)
+ |-- Close: string (nullable = true)
+ |-- Volume: string (nullable = true)
+ |-- Adj Close: string (nullable = true)
+
